@@ -9,6 +9,8 @@ import java.util.Scanner;
  *
  * @author erike
  */
+
+//Ejercicio Resuelto N4
 public class Ejercicio_1 {
 
     public static void main(String[] args) {
@@ -25,6 +27,7 @@ public class Ejercicio_1 {
         System.out.println("La edad de todos es: "+"La edad de la mamá:"+EDMAMA);
         System.out.println("La edad de Alber:"+EDALBER);
         System.out.println("La edad de Ana:"+EDANA);
+        System.out.println("Y La edad de Juan:"+EDJUAN);
         
     }
 }
